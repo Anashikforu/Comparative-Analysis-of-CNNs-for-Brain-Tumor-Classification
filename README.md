@@ -1,1 +1,1 @@
-# Comparative-Analysis-of-CNNs-for-Brain-Tumor-Classification
+# Comparative Analysis of Convolutional Neural Network Architectures for Brain Tumor Classification
